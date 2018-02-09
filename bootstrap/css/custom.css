@@ -1,0 +1,75 @@
+	.Best
+	{
+		height: 50px;
+		width: 50px;
+	}
+	.navbar 
+	{
+		background-color:  #52143d;
+
+	}
+	#about
+	{
+		height: 100%;
+		width: 100%;
+
+	}
+	  .jumbotron h1
+	{
+		color: #1aff66;
+
+	}
+	.jumbotron
+	{
+		background-color:  #0000ff;
+		height: 290px;
+
+	}
+	.jumbotron h3
+	{
+		color:   #ff3300;
+	}
+	.jumbotron p
+	{
+		color:  #00ffff;
+		
+	}
+	.glyphicon-hourglass
+	{
+		font-size: 60px;
+		color: #993333;
+	}
+	.glyphicon-user
+	{
+		font-size: 60px;
+		color: #2e2e1f;
+	}
+	.glyphicon-calendar
+	{
+		font-size: 60px;
+		color: #e65c00;
+	}
+	#achieve
+	{
+		height: 100%;
+		width: 100%;
+	}
+	.img
+	{
+		height: 100%;
+		width: 100%;
+		
+	}
+	.glyphicon-globe
+	{
+		font-size: 100px;
+		color: #4da6ff;
+	}
+	.glyphicon-earphone 
+	{
+		color: #00ffff;
+	}
+	.glyphicon-envelope{
+		color:#00ffff;
+	}
+	
